@@ -20,5 +20,5 @@ You can clear the cart or remove items by clicking on them!
 -open the link in chrome --> Go to settings --> click add to Home screen button!
 
 # Final result:-
-![alt text](https://github.com/kazimayaan/Shopping-cart-web-app/blob/master/8a07e4d7-e070-45ee-a656-681773f8b6a3.jpg?raw=true)
-![alt text](https://github.com/kazimayaan/Shopping-cart-web-app/blob/master/20d1a362-20bc-4eb0-b9a3-8130829c1526.jpg?raw=true)
+![alt text](https://github.com/kazimayaan/Shopping-cart-web-app/blob/master/8a07e4d7-e070-45ee-a656-681773f8b6a3.jpg?raw=false)
+![alt text](https://github.com/kazimayaan/Shopping-cart-web-app/blob/master/20d1a362-20bc-4eb0-b9a3-8130829c1526.jpg?raw=false)
