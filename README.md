@@ -22,3 +22,7 @@ You can clear the cart or remove items by clicking on them!
 # Final result:-
 ![alt text](https://github.com/kazimayaan/Shopping-cart-web-app/blob/master/8a07e4d7-e070-45ee-a656-681773f8b6a3.jpg?raw=false)
 ![alt text](https://github.com/kazimayaan/Shopping-cart-web-app/blob/master/20d1a362-20bc-4eb0-b9a3-8130829c1526.jpg?width=100px)
+<p align="center">
+  <img src="(https://github.com/kazimayaan/Shopping-cart-web-app/blob/master/8a07e4d7-e070-45ee-a656-681773f8b6a3.jpg" width="350" title="hover text">
+  <img src="(https://github.com/kazimayaan/Shopping-cart-web-app/blob/master/20d1a362-20bc-4eb0-b9a3-8130829c1526.jpg" width="350" alt="accessibility text">
+</p>
